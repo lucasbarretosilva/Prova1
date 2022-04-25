@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\bin\Debug\net5.0\AvaliacaoTecnica3.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\bin\Debug\net5.0\AvaliacaoTecnica3.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\bin\Debug\net5.0\AvaliacaoTecnica3.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\bin\Debug\net5.0\AvaliacaoTecnica3.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\bin\Debug\net5.0\AvaliacaoTecnica3.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\bin\Debug\net5.0\ref\AvaliacaoTecnica3.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\bin\Debug\net5.0\AvaliacaoTecnica3.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\obj\Debug\net5.0\AvaliacaoTecnica3.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\obj\Debug\net5.0\AvaliacaoTecnica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\obj\Debug\net5.0\AvaliacaoTecnica3.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\obj\Debug\net5.0\AvaliacaoTecnica3.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\obj\Debug\net5.0\AvaliacaoTecnica3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\obj\Debug\net5.0\AvaliacaoTecnica3.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\obj\Debug\net5.0\ref\AvaliacaoTecnica3.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\obj\Debug\net5.0\AvaliacaoTecnica3.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Prova1\AvaliacaoTecnica3\obj\Debug\net5.0\AvaliacaoTecnica3.genruntimeconfig.cache
